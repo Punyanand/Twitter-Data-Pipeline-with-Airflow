@@ -1,4 +1,4 @@
-# Twitter-Data-Pipeline-with-Airflow
+# Twitter Data Pipeline with Airflow
 
 The project involves setting up an ETL (Extract, Transform, Load) pipeline to extract data from Twitter using Tweepy, store the data in AWS S3 storage, and then load formatted data into a Redshift data warehouse for sentimental analysis.
 
